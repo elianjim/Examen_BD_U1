@@ -15,7 +15,7 @@
 | **Ciclo** | 3 A |
 | **Unidad** | 1 |
 | **Docente** | Edwin René Guamán Quinche |
-| **Estudiante** | **[Completar nombre del estudiante]** |
+| **Estudiante** | Elian Vicente Jiménez Motoche |
 | **Fecha** | 09/11/2026 |
 
 ### Resultado de aprendizaje de la unidad
@@ -375,14 +375,4 @@ HAVING COUNT(h.id_historial) >= 2;
 [5] R. Trott, “Spring houseplant care,” *University of Minnesota Extension*. [En línea]. Disponible: https://extension.umn.edu/garden-and-home/yard-and-garden/gardening-in-minnesota/houseplants/spring-houseplant-care.
 
 ---
-
-## Cómo abrir el proyecto
-
-1. Descarga o clona este repositorio.
-2. En **MySQL Workbench**, abre [`./greenthumb_hub.sql`](./greenthumb_hub.sql) y ejecútalo en MySQL 8.0.16 o posterior.
-3. El archivo crea la base `greenthumb_hub`, seis tablas y datos de prueba. No lo ejecutes dos veces en la misma base sin antes limpiarla.
-4. Para ejecutar únicamente las consultas, abre [`./consultas.sql`](./consultas.sql).
-5. Puedes modificar los diagramas con [draw.io](https://app.diagrams.net/) usando los archivos `.drawio` de este repositorio.
-
-**Nota:** Las frecuencias de riego usadas en los registros son valores de ejemplo para practicar con la base de datos. El riego real depende de la especie y de las condiciones de la planta.
 
